@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Varun Gulati
+- 👀 I’m interested in building my skills on
+- 🌱 I’m currently learning DevOps, SRE and some knowledge around data science. 
+- 💞️ I’m looking to collaborate on SQL tools, any quick and dirty solutions to problems in DW or Python space. 
+- 📫 I can be mailed directly - varungulati.1985@hotmail.com or on Teams (varungulati.1985@hotmail.com)
